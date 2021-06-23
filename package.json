@@ -1,0 +1,31 @@
+{
+  "name": "mod_18",
+  "version": "1.0.0",
+  "description": "Практическая работа модуля 18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreyst18/mod_18.git"
+  },
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreyst18/mod_18/issues"
+  },
+  "homepage": "https://github.com/andreyst18/mod_18#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0"
+  },
+  "dependencies": {
+    "pug": "^3.0.2"
+  },
+  "keywords": []
+}
