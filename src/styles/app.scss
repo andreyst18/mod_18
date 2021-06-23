@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(134, 241, 241);
+}
+
+
+li {
+    display: inline;
+    *margin-right: 5px;
+    padding: 7px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.about {
+    margin-left: 50px;
+    width: 20%;
+}
+
+.title {
+    margin-left: 50px;
+}
+
+.nav {
+    margin: 40px;
+    padding: 0px;
+}
+
+.foto {
+    width: 15%;
+    margin-left: 50px;
+}
+
+.contact {
+    margin-left: 50px;
+}
